@@ -55,4 +55,7 @@ Protocol-based Authentication: Flexible auth system that can easily switch betwe
 Lazy Loading: Efficient list rendering with LazyVStack
 Custom Components: Reusable UI elements like ListingImageCarouselView and CircularProfileImageView
 Robust ViewModels: Handles network requests and business logic
-Clean Folder Structure: Organized by feature domain
+
+## System Design
+<img width="1233" alt="Screenshot 2025-05-19 at 5 54 08 PM" src="https://github.com/user-attachments/assets/b58955e8-236c-4300-bd61-483c1bf304e8" />
+
