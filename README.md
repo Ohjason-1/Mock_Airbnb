@@ -29,22 +29,22 @@ Protocol-oriented programming
 
 ## 📱 Screens
 
-Explore View with listings
-Listing Detail View
-Map View with interactive pins
-Search and Filtering
-Authentication (Login/Register)
-User Profile
-Wishlists
+- Explore View with listings
+- Listing Detail View
+- Map View with interactive pins
+- Search and Filtering
+- Authentication (Login/Register)
+- User Profile
+- Wishlists
 
 ## 🏗️ Architecture
 
 This project follows the MVVM (Model-View-ViewModel) pattern:
-Models: Data structures like Listing
-Views: SwiftUI views
-ViewModels: Business logic and state management
-Services: Mock data and authentication providers
-Protocols: Interface abstractions for services
+- Models: Data structures like Listing
+- Views: SwiftUI views
+- ViewModels: Business logic and state management
+- Services: Mock data and authentication providers
+- Protocols: Interface abstractions for services
 
 File description based on the structure: [Mock_Airbnb.pdf](https://github.com/user-attachments/files/20319996/swift.pdf)
 
